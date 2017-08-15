@@ -1,0 +1,9 @@
+c:\users\sala\documents\visual studio 2017\Projects\MvcMovieCore\MvcMovieCore\bin\Debug\netcoreapp1.1\MvcMovieCore.deps.json
+c:\users\sala\documents\visual studio 2017\Projects\MvcMovieCore\MvcMovieCore\bin\Debug\netcoreapp1.1\MvcMovieCore.runtimeconfig.json
+c:\users\sala\documents\visual studio 2017\Projects\MvcMovieCore\MvcMovieCore\bin\Debug\netcoreapp1.1\MvcMovieCore.runtimeconfig.dev.json
+c:\users\sala\documents\visual studio 2017\Projects\MvcMovieCore\MvcMovieCore\bin\Debug\netcoreapp1.1\MvcMovieCore.dll
+c:\users\sala\documents\visual studio 2017\Projects\MvcMovieCore\MvcMovieCore\bin\Debug\netcoreapp1.1\MvcMovieCore.pdb
+c:\users\sala\documents\visual studio 2017\Projects\MvcMovieCore\MvcMovieCore\obj\Debug\netcoreapp1.1\MvcMovieCore.csprojResolveAssemblyReference.cache
+c:\users\sala\documents\visual studio 2017\Projects\MvcMovieCore\MvcMovieCore\obj\Debug\netcoreapp1.1\MvcMovieCore.AssemblyInfo.cs
+c:\users\sala\documents\visual studio 2017\Projects\MvcMovieCore\MvcMovieCore\obj\Debug\netcoreapp1.1\MvcMovieCore.dll
+c:\users\sala\documents\visual studio 2017\Projects\MvcMovieCore\MvcMovieCore\obj\Debug\netcoreapp1.1\MvcMovieCore.pdb
